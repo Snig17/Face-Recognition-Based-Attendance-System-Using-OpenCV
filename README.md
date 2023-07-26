@@ -29,7 +29,19 @@ Step-5:Define Functions
       
   Step-6 : Define main page routing function.
 
-    This function will run when we click on Take Attendance Button.
-    This function will run when we add a new user.
-    Our main function which runs the Flask App.
+       This function will run when we click on Take Attendance Button.
+      This function will run when we add a new user.
+      Our main function which runs the Flask App.
+
+Implementation
+Main Screen:
+
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/392f95fb-cdf4-472b-8810-9545c21719cb)
+
+
+Step-1:Enter Username & ID
+
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/6616a9c1-e764-473b-9f31-8e918566ce12)
+
+
 
