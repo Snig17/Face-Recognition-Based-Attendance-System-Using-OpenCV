@@ -43,5 +43,27 @@ Step-1:Enter Username & ID
 
 ![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/6616a9c1-e764-473b-9f31-8e918566ce12)
 
+Step-2:Faces Captured in Static Folder
+
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/ec8febeb-ad3f-4a09-93af-c10b1b7937f5)
+
+Step-3:Taking Attendance
+
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/c946e993-ba76-4b74-ba1e-b830594eba31)
+
+Step-4:Showing Attendance taken:
+
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/5b478f6b-a7cc-40c9-8975-73cfdd18ac18)
+
+Step-5:Attendance Sheet
+
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/c947ff3b-bc58-4e41-a14e-ad0a8d61a0fe)
+
+
+
+
+
+
+
 
 
