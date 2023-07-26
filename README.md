@@ -8,16 +8,28 @@ PROPOSED METHODOLOGY:
 ![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/292aec05-4124-4d5e-8d67-d22ac7674427)
 
 WORKING STEPS:
+
 Step -1:We are importing the required libraries.
+
 Step-2:Defining the Flask App.
+
 Step-3:Functions that return today’s date strings to use in the program ahead.
+
 Step-4:Initializing Video Capture object to access Webcam.
-Checking if the required folders are in place or not, If not create them.
+
+      Checking if the required folders are in place or not, If not create them.
+      
 Step-5:Define Functions
-A function that calculates the number of total registered users.
-A function that extracts the face from an image.
-A function that Identifies face using ML model.
-A function that trains the model on all the faces available in the faces folder.
-A function that extracts info from today’s attendance file in the attendance folder.
-A function that adds the Attendance of a specific user in our today’s Attendance file.
-![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/bf029190-ea25-4dcc-bbb5-4c2756bd9e56)
+      A function that calculates the number of total registered users.
+      A function that extracts the face from an image.
+      A function that Identifies face using ML model.
+      A function that trains the model on all the faces available in the faces folder.
+      A function that extracts info from today’s attendance file in the attendance folder.
+      A function that adds the Attendance of a specific user in our today’s Attendance file.
+      
+  Step-6 : Define main page routing function.
+
+    This function will run when we click on Take Attendance Button.
+    This function will run when we add a new user.
+    Our main function which runs the Flask App.
+
