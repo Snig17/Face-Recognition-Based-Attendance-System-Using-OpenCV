@@ -3,23 +3,23 @@
 ## PROPOSED SYSTEM:
 The proposed system is an application which can capture the attendance in a virtual meeting using facial recognition. It can detect and recognize the faces of the attendees. In the proposed system, at the time of enrolment, images of students are stored and recorded in a database. In real time, video of a student present in the session will be captured. The face will then be detected and matched with the dataset images, enroll number of the present student will be displayed along with updating the attendance. The proposed system has many advantages over the existing systems like it can detect faces of multiple students at a time. It saves the time and effort of the host to a greater extent. There is less chance for proxy attendance through this system as it is based on real time face recognition.
 
-## PROPOSED METHODOLOGY:
+##  PROPOSED METHODOLOGY:
 
 
-## WORKING STEPS:
+##  WORKING STEPS:
 
-### 1. Data Collection:
+###  1. Data Collection:
    
-•	Gather a dataset of face images from individuals who will be enrolled in the attendance system.
+•   	Gather a dataset of face images from individuals who will be enrolled in the attendance system.
 
-•	Ensure that the dataset includes a diverse range of images captured under different lighting conditions, angles, and expressions.
+•   	Ensure that the dataset includes a diverse range of images captured under different lighting conditions, angles, and expressions.
 
-•	Annotate the dataset with labels indicating the identity of each individual.
+•   	Annotate the dataset with labels indicating the identity of each individual.
 
-### 2. Preprocessing:
-•	Apply necessary preprocessing techniques such as resizing, normalization, and face alignment to ensure consistent image quality and facial alignment across the dataset.
+###  2. Preprocessing:
+•	   Apply necessary preprocessing techniques such as resizing, normalization, and face alignment to ensure consistent image quality and facial alignment across the dataset.
 
-•	Extract relevant facial features using techniques like landmark detection or deep learning-based face feature extraction models (e.g., FaceNet, VGGFace).
+•   	Extract relevant facial features using techniques like landmark detection or deep learning-based face feature extraction models (e.g., FaceNet, VGGFace).
 
 ### 3. Model Training:
 
