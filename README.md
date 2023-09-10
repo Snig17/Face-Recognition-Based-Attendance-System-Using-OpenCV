@@ -69,7 +69,7 @@ The proposed system is an application which can capture the attendance in a virt
 •	Test the system thoroughly in the deployment environment to validate its functionality and reliability.
 
 
-##Implementation
+## Implementation
 
 Main Screen:
 
