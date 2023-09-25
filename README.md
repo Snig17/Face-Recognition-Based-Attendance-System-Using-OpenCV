@@ -71,25 +71,35 @@ The proposed system is an application which can capture the attendance in a virt
 
 ##   Implementation
 
-Main Screen:
+### Main Screen:
+
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/711c31f8-4732-462d-a4b6-e27e6c07f729)
 
 
 
-Step-1: Enter Username & ID
-
-
-Step-2: Faces Captured in Static Folder
-
-
-Step-3: Taking Attendance
+### Step-1: Enter Username & ID
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/56713bab-752e-46c0-8eda-7ea485189326)
 
 
 
-Step-4: Showing Attendance taken:
+### Step-2: Faces Captured in Static Folder
+
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/c3efa835-3d8a-4905-86c3-6447372ea691)
+
+### Step-3: Taking Attendance
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/8d6c802c-6c04-46fe-8d48-f94f2e3b7319)
 
 
 
-Step-5: Attendance Sheet
+
+### Step-4: Showing Attendance taken:
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/285cc82a-3612-452b-8f21-60514b82f5d0)
+
+
+
+### Step-5: Attendance Sheet
+![image](https://github.com/Snig17/Face-Recognition-Based-Attendance-System-Using-OpenCV/assets/127118518/dc6e9890-e5ad-4e6b-81bd-190386ae2dc7)
+
 
 
 
